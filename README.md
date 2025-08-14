@@ -101,16 +101,16 @@ java main
 ![Login Screen](screenshots/Login.png)
 
 **Main Menu**  
-![Main Menu](screenshots/Main Menu.png)
+![Main Menu](screenshots/MainMenu.png)
 
 **Shareholder Management**  
-![Shareholder Management](screenshots/Share holder.png)
+![Shareholder Management](screenshots/Shareholder.png)
 
 **Loan Department**  
 ![Loan Department](screenshots/Loan.png)
 
 **Final Account**  
-![Final Account](screenshots/Final Account.png)
+![Final Account](screenshots/FinalAccount.png)
 
 ---
 
