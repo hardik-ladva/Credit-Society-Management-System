@@ -95,6 +95,24 @@ java main
 - Navigate through menus to manage shareholders, loans, view day books, or generate final accounts.
 
 ---
+## Screenshots
+
+**Login Screen**  
+![Login Screen](screenshots/Login.png)
+
+**Main Menu**  
+![Main Menu](screenshots/Main Menu.png)
+
+**Shareholder Management**  
+![Shareholder Management](screenshots/Share holder.png)
+
+**Loan Department**  
+![Loan Department](screenshots/Loan.png)
+
+**Final Account**  
+![Final Account](screenshots/Final Account.png)
+
+---
 
 ## Contribution
 Feel free to fork this project and enhance its functionality, such as adding a GUI, reporting features, or automated interest calculations.
