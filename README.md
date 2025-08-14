@@ -38,7 +38,7 @@ This is a Java-based console application designed to efficiently manage a credit
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/hardik-ladva/Credit-Society-Management-System.git
 ```
 
 2. **Set up MySQL Database**
