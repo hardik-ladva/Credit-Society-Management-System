@@ -1,0 +1,32 @@
+*******************Login table*****************************
+create table login
+(
+    uname varchar(20),
+    passwrd varchar(10)
+);
+
+*****************Share Holder Table ********************
+create table shareHolder
+(
+    sid int primary key,
+    name varchar(50),
+    dob date,
+    issueDate date,
+    address varchar(150),
+    idproofname varchar(20),
+    idproofnum varchar(15),
+    refrence varchar(25)
+);
+*****************Loan Department **********************
+create table loanDep
+(
+    sid int,
+    loanNo int primary key,
+    loanAmount int,
+    intrest int,
+    payableAmount int,
+    intrestAmount int,
+    loandate date,
+    foreign key (sid) references shareHolder(sid)
+);
+**********************************************************
